@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CALC IMC</string>
+    <string name="dica_imc">
+        O processo utiliza para determinar
+        o execesso de peso é o cálculo do
+        ídice de massa corporal(IMC).
+
+    </string>
+    <string name="situacao_normal">Nesta classificação existe um RISCO MÉDIO de outras doenças associadas</string>
+</resources>
